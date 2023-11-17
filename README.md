@@ -1,4 +1,4 @@
-#Install requiremnts by typing 
+#Install requirements by typing 
 
 'pip install -r requirements.txt'
 
